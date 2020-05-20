@@ -7,3 +7,5 @@
 3. Click on `game.html` file
 4. Choose one of the play options ie. "Player vs Computer"
 5. Enjoy :)
+
+![](pong.gif)
